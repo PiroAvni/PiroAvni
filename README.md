@@ -28,7 +28,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [A Career Change? ](https://twitter.com/PiroAvni)
+- [A Career Change? ](https://avnipiro.hashnode.dev/)
 - <!-- BLOG-POST-LIST:END -->
 
   ***
