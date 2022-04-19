@@ -38,7 +38,7 @@
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](http://www.avnipiro.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](http://www.avnipiro.dev)
 [![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](http://www.avnipiro.dev)
-[![c#](https://img.shields.io/badge/C#-00599C?style=for-the-badge&logo=c#&logoColor=white)](http://www.avnipiro.dev)
+[![c#](https://img.shields.io/badge/Csharp-00599C?style=for-the-badge&logo=csharp&logoColor=white)](http://www.avnipiro.dev)
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](http://www.avnipiro.dev)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](http://www.avnipiro.dev)
 [![plsql](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](http://www.avnipiro.dev)
