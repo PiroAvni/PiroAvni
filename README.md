@@ -88,7 +88,7 @@
 ### 💻 Workspace
 
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](http://www.avnipiro.dev)
-[![IOS](https://img.shields.io/badge/ios-0078D6?style=for-the-badge&logo=IOS&logoColor=BLACK)](http://www.avnipiro.dev)
+[![IOS](https://img.shields.io/badge/APPLE-0078D6?style=for-the-badge&logo=IOS&logoColor=BLACK)](http://www.avnipiro.dev)
 <!-- [![hp laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)](http://www.avnipiro.dev)
 [![acer monitor](https://img.shields.io/badge/acer%20monitor-83B81A?style=for-the-badge&logo=acer&logoColor=white)](http://www.avnipiro.dev) -->
 
