@@ -107,4 +107,4 @@
  
   [![Avni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AVNIPIRO&theme=github_dark&hide_border=true)](https://wakatime.com/@AVNIPIRO)
 </details>
-[![Avni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PiroAvni)]
+[![Avni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?AVNIPIRO=Harlok)](https://github.com/anuraghazra/github-readme-stats)
