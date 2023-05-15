@@ -107,5 +107,4 @@
  
   [![Avni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AVNIPIRO&theme=github_dark&hide_border=true)](https://wakatime.com/@AVNIPIRO)
 </details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?PiroAvni=anuraghazra)](https://github.com/PiroAvni/github-readme-stats)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=PiroAvni.PiroAvni)
+[![Avni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PiroAvni)]
