@@ -96,7 +96,7 @@
 
 ### 🔝 Most used languages
 
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVNIPIRO&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiroAvni&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
 
 ---
 
@@ -105,6 +105,6 @@
   
  ![Github stats](https://github-readme-stats.vercel.app/api?username=PiroAvni)
  
-  [![Avni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AVNIPIRO&theme=github_dark&hide_border=true)](https://wakatime.com/@AVNIPIRO)
+  [![Avni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PiroAvni&theme=github_dark&hide_border=true)](https://wakatime.com/@AVNIPIRO)
 
-[![Avni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AVNIPIRO)](https://wakatime.com/@AVNIPIRO)
+[![Avni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PiroAvni)](https://wakatime.com/@AVNIPIRO)
